@@ -3,6 +3,9 @@
 (как в [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="./screenshot.bmp" alt="Screenshot of the game" />
+### Быстрый старт
+
+make && make clean && ./cub3D maps/dust.cub
 
 # Как запустить
 В командной строке использовать команду ``make`` для создания ``cub3D`` исполняемого файла.
