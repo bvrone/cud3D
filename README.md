@@ -1,5 +1,5 @@
 # Моя реализация Raycating
-псевдо - 3D движок с видом от первого лица
+движек с видом от первого лица
 (как в [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="./screenshot.bmp" alt="Screenshot of the game" />
@@ -16,7 +16,18 @@
 доступные карты: dust.cub, winter.cub, forest.cub
 
 ## формат карты
-R 1240 720  разрешение 
+``R 1240 720``                    разрешение
+``NO textures/yellow_brick.xpm``  адрес северной текстуры
+``SO textures/grey_brick.xpm``    адрес южной текстуры
+``WE textures/wood.xpm``          адрес зарадной текстуры
+``EA textures/red_brick.xpm``     адрес восточной текстуры
+``S textures/sprites/barrel.xpm`` адрес текстуры спрайта
+``F 230, 198, 110``               цвет пола в формате RGB
+``C 152, 224, 235``               цвет потолка в формате RGB
+
+111111                            Сама карта, где 1 - стена, N - игрок(смотрит на север
+10SN01
+111111
 
 ### Controls
 
