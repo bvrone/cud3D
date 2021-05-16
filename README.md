@@ -34,16 +34,14 @@
 
 Дальше идет сама карта, где ``1``- стена, ``0``- пустое пространство, ``E,N,W или S`` - позиция игрока(в зависимости от стороны света куда он смотрит), ``S`` - спрайт
 
-<111111>
-<111111>
-### Controls
+### Управление
 
-You can move around the maze with ``W`` ``A`` ``S`` ``D``.
-You can also rotate the view with the directional arrows ``←`` and ``→``.
-You can increase the move speed with ``SHIFT``.
-To exit the game, press ``ESC`` or click the red cross.
+Перемещение вперед/влево/назад/вправо ``W`` ``A`` ``S`` ``D``.
+Повороты вокруг в стороны ``←````→`` и ``Q`` ``E``.
+"Бег" ``SHIFT``.
+Чтобы выйти из игры ``ESC`` или нажать красный крестик.
 
-## Resources
+## Статьи и сточники
 
 * [Tutorial](https://lodev.org/cgtutor/raycasting.html)
 * [Wolfenstein 3D](http://users.atw.hu/wolf3d/)
