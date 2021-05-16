@@ -47,7 +47,7 @@
 
 ## Статьи и сточники
 
-* [Все об библиотекек MLX] (https://harm-smits.github.io/42docs/libs/minilibx.html)
+* [Все об библиотекек MLX](https://harm-smits.github.io/42docs/libs/minilibx.html)
 * [Туториал по рейкастингку](https://lodev.org/cgtutor/raycasting.html)
 * [BMP format](https://web.archive.org/web/20080912171714/http://www.fortunecity.com/skyscraper/windows/364/bmpffrmt.html)
 * [42 Docs](https://harm-smits.github.io/42docs/)
