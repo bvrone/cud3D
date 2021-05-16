@@ -1,13 +1,14 @@
-# my verison of 3D Raycasting engine
-
-first person perspective
-(like [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
+# Моя реализация Raycating
+вид от первого лица
+(как в [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="./screenshot.bmp" alt="Screenshot of the game" />
 
 ### Как запустить
-В командной строке спользовать команду make для создания cub3D исполняемого файла
-Можно запустить 
+В командной строке использовать команду ``make`` для создания ``cub3D`` исполняемого файла
+Карты хроняться в папке maps с расширение .cub
+## формат карты
+R 1240 720  разрешение 
 
 ### Controls
 
