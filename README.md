@@ -6,7 +6,7 @@
 
 ### Быстрый старт
 
-make && make clean && ./cub3D maps/dust.cub
+``make && make clean && ./cub3D maps/dust.cub``
 
 # Как запустить
 В командной строке использовать команду ``make`` для создания ``cub3D`` исполняемого файла.
