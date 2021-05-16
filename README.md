@@ -49,5 +49,5 @@
 
 ## Статьи и сточники
 
-* [Все об библиотекек MLX](https://harm-smits.github.io/42docs/libs/minilibx.html)
+* [Все о библиотекек MLX](https://harm-smits.github.io/42docs/libs/minilibx.html)
 * [Туториал по рейкастингку](https://lodev.org/cgtutor/raycasting.html)
