@@ -4,11 +4,12 @@
 
 <img align="center" src="./screenshot.bmp" alt="Screenshot of the game" />
 
+# Как запустить
+
 ### Быстрый старт
 
 ``make && make clean && ./cub3D maps/dust.cub``
 
-# Как запустить
 В командной строке использовать команду ``make`` для создания ``cub3D`` исполняемого файла.
 
 Запустить командой ``./cub3D maps/<имя карты> ``
