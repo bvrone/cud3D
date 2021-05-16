@@ -1,5 +1,5 @@
 # Моя реализация Raycating
-движек с видом от первого лица
+движок с видом от первого лица
 (как в [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
 <img align="center" src="./screenshot.bmp" alt="Screenshot of the game" />
