@@ -22,7 +22,7 @@
 
 ``SO textures/grey_brick.xpm``    адрес южной текстуры
 
-``WE textures/wood.xpm``          адрес зарадной текстуры
+``WE textures/wood.xpm``          адрес западной текстуры
 
 ``EA textures/red_brick.xpm``     адрес восточной текстуры
 
