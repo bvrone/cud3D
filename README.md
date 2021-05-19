@@ -2,8 +2,6 @@
 движок с видом от первого лица
 (как в [Wolfenstein 3D](https://fr.wikipedia.org/wiki/Wolfenstein_3D)).
 
-![](additional/ray_casting.gif)
-
 <img align="center" src="./screenshot.bmp" alt="Screenshot of the game" />
 
 ### Быстрый старт
